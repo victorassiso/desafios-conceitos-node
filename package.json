@@ -1,7 +1,7 @@
 {
   "name": "backend",
-  "version": "1.0.0",
-  "main": "src/server.js",
+  "version": "1.0.2",
+  "main": "src/app.js",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "jest": "^25.2.6",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.7",
     "supertest": "^4.0.2"
   }
 }
